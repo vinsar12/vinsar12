@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vinoth Deivasigamani
-- 👀 I’m interested in Web Technologies - React, Angular, Typescript, HTML & CSS
-- 🌱 I’m currently learning Svelte & Tailwind CSS
+- 👀 I’m interested in Web Technologies - Svelte/SvelteKit, React, Angular, Tailwind CSS, Typescript, Drizzle ORM, PostgreSQL
 - 📫 Reach me https://twitter.com/VinothDi
 
 <!---
